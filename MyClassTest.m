@@ -4,4 +4,3 @@ classdef MyClassTest < matlab.unittest.TestCase
             testCase.fatalAssertEqual(1,1);
         end
     end
-end
