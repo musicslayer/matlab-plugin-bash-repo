@@ -1,0 +1,2 @@
+classdef Subclass < ClassThatDeletesItselfInGetMethod
+end
